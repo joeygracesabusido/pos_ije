@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "accounting": {
+      "source": "whawkinsiv/claude-code-skills",
+      "sourceType": "github",
+      "computedHash": "bf86967595a4c4c557080b07097cdb7bc5d5423538851a699e7171a6ea8175dd"
+    },
+    "founder-sales": {
+      "source": "refoundai/lenny-skills",
+      "sourceType": "github",
+      "computedHash": "896220542e1db3e30638569a7d92d589d6c823b93a8d4e01f498ff090a852289"
+    },
+    "nextjs-standards": {
+      "source": "jstarfilms/vibecode-protocol-suite",
+      "sourceType": "github",
+      "computedHash": "50932cb1e02caafb93d84df6833497809d78b5f26925d6d1d12311da188d8163"
+    },
+    "redis-development": {
+      "source": "redis/agent-skills",
+      "sourceType": "github",
+      "computedHash": "d4f7e3cd197a4ed0dbea7dd133c8b4e83f550b5e9376ec672bbd6d988379e2b6"
+    }
+  }
+}
